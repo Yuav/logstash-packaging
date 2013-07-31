@@ -1,5 +1,5 @@
 #!/bin/bash
-VERSION=1.1.10
+VERSION=1.1.13
 cd ..
 #git clone git://github.com/Yuav/logstash-packaging.git --depth=1
 wget http://logstash.objects.dreamhost.com/release/logstash-${VERSION}-monolithic.jar -O logstash-packaging/usr/share/logstash/logstash.jar
